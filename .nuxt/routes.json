@@ -1,51 +1,51 @@
 [
   {
     "path": "/",
-    "component": "D:\\\\lagou\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "component": "D:\\\\lagou\\\\realworld-wzp\\\\pages\\\\layout",
     "children": [
       {
         "path": "/",
         "name": "home",
-        "component": "D:\\\\lagou\\\\realworld-nuxtjs\\\\pages\\\\home",
-        "_name": "_75a25a1c"
+        "component": "D:\\\\lagou\\\\realworld-wzp\\\\pages\\\\home",
+        "_name": "_5536455b"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "D:\\\\lagou\\\\realworld-nuxtjs\\\\pages\\\\login",
-        "_name": "_3e385894"
+        "component": "D:\\\\lagou\\\\realworld-wzp\\\\pages\\\\login",
+        "_name": "_51caae6d"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "D:\\\\lagou\\\\realworld-nuxtjs\\\\pages\\\\login",
-        "_name": "_3e385894"
+        "component": "D:\\\\lagou\\\\realworld-wzp\\\\pages\\\\login",
+        "_name": "_51caae6d"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "D:\\\\lagou\\\\realworld-nuxtjs\\\\pages\\\\profile",
-        "_name": "_10648eb6"
+        "component": "D:\\\\lagou\\\\realworld-wzp\\\\pages\\\\profile",
+        "_name": "_3a00d0a6"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "D:\\\\lagou\\\\realworld-nuxtjs\\\\pages\\\\settings",
-        "_name": "_e5254e94"
+        "component": "D:\\\\lagou\\\\realworld-wzp\\\\pages\\\\settings",
+        "_name": "_0e336e9f"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "D:\\\\lagou\\\\realworld-nuxtjs\\\\pages\\\\editor",
-        "_name": "_2f0ac6c0"
+        "component": "D:\\\\lagou\\\\realworld-wzp\\\\pages\\\\editor",
+        "_name": "_4a017a2e"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "D:\\\\lagou\\\\realworld-nuxtjs\\\\pages\\\\article",
-        "_name": "_11a25bfa"
+        "component": "D:\\\\lagou\\\\realworld-wzp\\\\pages\\\\article",
+        "_name": "_6c6c4a0c"
       }
     ],
-    "_name": "_3ad9a07d"
+    "_name": "_3263c6b4"
   }
 ]
